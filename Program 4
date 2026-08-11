@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Details</title>
+</head>
+<body>
+
+    <h2>Student Details</h2>
+
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Register No</th>
+            <th>Course</th>
+        </tr>
+        <tr>
+            <td>Sabran Jamila</td>
+            <td>20525UCSC038</td>
+            <td>Computer Science</td>
+        </tr>
+        <tr>
+            <td>Student 2</td>
+            <td>20525UCSC039</td>
+            <td>Computer Science</td>
+        </tr>
+    </table>
+
+</body>
+</html>
