@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Elements</title>
+</head>
+<body>
+
+    <h1>Main Heading</h1>
+    <h2>Sub Heading</h2>
+
+    <p>This is a paragraph in HTML.</p>
+
+    This is the first line.<br>
+    This is the second line.<br>
+    This is the third line.
+
+</body>
+</html>
