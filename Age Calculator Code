@@ -1,0 +1,14 @@
+<?php
+$name = "Arun";
+$birthYear = 2000;
+$currentYear = 2026;
+$retirementAge = 60;
+
+$age = $currentYear - $birthYear;
+$remaining = $retirementAge - $age;
+
+echo "Employee Age and Retirement Calculator<br>";
+echo "Employee Name: $name<br>";
+echo "Current Age: $age<br>";
+echo "Years Remaining for Retirement: $remaining";
+?>
